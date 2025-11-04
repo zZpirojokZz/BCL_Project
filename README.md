@@ -12,7 +12,8 @@ ___
 ___
 # 4 шаг
 ## Запуск приложения
-В новом окне cmd/ps ввести ***cd BCL_Project*** а затем ***java --module-path "C:\Users\Имя-вашего-компьютера\.m2\repository\org\openjfx\javafx-controls\21.0.4\javafx-controls-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-graphics\21.0.4\javafx-graphics-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-base\21.0.4\javafx-base-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-fxml\21.0.4\javafx-fxml-21.0.4-win.jar" --add-modules javafx.controls,javafx.fxml -jar desktop\target\desktop-1.0.0-jar-with-dependencies.jar***
+В новом окне cmd/ps ввести ***cd BCL_Project*** а затем ***java --module-path "C:\Users\Имя-вашего-компьютера\.m2\repository\org\openjfx\javafx-controls\21.0.4\javafx-controls-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-graphics\21.0.4\javafx-graphics-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-base\21.0.4\javafx-base-21.0.4-win.jar;C:\Users\igorj\.m2\repository\org\openjfx\javafx-fxml\21.0.4\javafx-fxml-21.0.4-win.jar" --add-modules javafx.controls,javafx.fxml -jar desktop\target\desktop-1.0.0-jar-with-dependencies.jar
+***
 ## Откроется приложение BCL Products Manager
 ___
 # Далее перейдите по адресу http://localhost:8080/h2-console
