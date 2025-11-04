@@ -16,7 +16,8 @@ ___
 ## Откроется приложение BCL Products Manager
 ___
 # Далее перейдите по адресу http://localhost:8080/h2-console
-## Там нужно будет проверить, правильный ли введён пароль. Пароль - BCLyon2024 Логин - staff
+## Там нужно будет проверить, правильный ли введены данные. Driver Class: ***org.h2.Driver*** JDBC URL: ***jdbc:h2:mem:bcldb*** User Name: ***sa*** Поле пароля пустое
 ___
 # API находится по адресу http://localhost:8080/api/products
+Пароль - BCLyon2024 Логин - staff
 ___
